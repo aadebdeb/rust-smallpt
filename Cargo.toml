@@ -1,0 +1,9 @@
+[package]
+name = "rust-smallpt"
+version = "0.1.0"
+authors = ["aadebdeb <aa.debdeb@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+lazy_static = "*"
